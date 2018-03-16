@@ -4,5 +4,5 @@
   <a href="https://amberwenhua.github.io/dontTapTheWhiteTile/" target="_blank">网页版的别踩白块儿小游戏</a></p>
 <p>JQuery制作：<a href="https://amberwenhua.github.io/picBrowse/" target="_blank">图片浏览</a></p>
 <p>Bootstrap框架搭建：<a href="https://amberwenhua.github.io/starbucks/" target="_blank">星巴克案例</a>
-  <a href="https://amberwenhua.github.io/fixedColumns/">固定列插件</a></p>
+  <a href="https://amberwenhua.github.io/fixedColumns/" target="_blank">固定列插件</a></p>
 
